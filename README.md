@@ -1,2 +1,2 @@
 # ASD
-#Problemy, które napotkałam podczas studiowania na przedmiocie Algorytmy i struktury danych 
+#Problems, which I crossed with on algorithms and data structures subject.
